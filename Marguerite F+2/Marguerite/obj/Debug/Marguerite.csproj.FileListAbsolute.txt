@@ -1,0 +1,184 @@
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\installateur\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\installateur\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\installateur\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\installateur\Desktop\Marguerite\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\bin\Debug\Marguerite.exe.config
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\obj\Debug\Marguerite.exe
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\obj\Debug\Marguerite.pdb
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\bin\Debug\Marguerite.exe
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\bin\Debug\Marguerite.pdb
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+E:\TS1SIO\SLAM\SLAM 2\TP groupe\Marguerite\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\bin\Debug\Marguerite.exe.config
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\obj\Debug\Marguerite.exe
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\obj\Debug\Marguerite.pdb
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\bin\Debug\Marguerite.exe
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\bin\Debug\Marguerite.pdb
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 2\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Marguerite 2\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\etudSIO1\Desktop\Marguerite 3\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\bin\Debug\Marguerite.exe.config
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\obj\Debug\Marguerite.exe
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\obj\Debug\Marguerite.pdb
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\bin\Debug\Marguerite.exe
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\bin\Debug\Marguerite.pdb
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 3\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\bin\Debug\Marguerite.exe.config
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\obj\Debug\Marguerite.exe
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\obj\Debug\Marguerite.pdb
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\bin\Debug\Marguerite.exe
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\bin\Debug\Marguerite.pdb
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+E:\TS1SIO\SLAM\SLAM 2\PPE2\Margueritte\Marguerite 4\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\etudSIO1\Desktop\Marguerite 4\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 6\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\etudSIO1\Desktop\Margueritte\Marguerite 7\Marguerite\obj\Debug\Marguerite.fmCompter.resources
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\obj\Debug\Marguerite.fmCompter.resources
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\installateur\Desktop\Marguerite 7\Marguerite\obj\Debug\Marguerite.Form1.resources
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.fmCompter.resources
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.MoveMan.resources
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.Form1.resources
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\installateur\Desktop\Marguerite 8\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.fmCompter.resources
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.Form1.resources
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+C:\Users\installateur\Desktop\Marguerite 9\Marguerite\obj\Debug\Marguerite.FmMotDePasse.resources
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.exe
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.pdb
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.fmCompter.resources
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.FmMotDePasse.resources
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.Form1.resources
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+C:\Users\installateur\Desktop\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+E:\SIO\TS1SIO\SLAM\SLAM 2\PPE2\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.exe.config
+E:\SIO\TS1SIO\SLAM\SLAM 2\PPE2\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.exe
+E:\SIO\TS1SIO\SLAM\SLAM 2\PPE2\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.pdb
+C:\Users\Vincent\Desktop\ETUDES\SIO\TS1SIO\SLAM\SLAM 2\PPE2\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.exe.config
+C:\Users\Vincent\Desktop\ETUDES\SIO\TS1SIO\SLAM\SLAM 2\PPE2\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.exe
+C:\Users\Vincent\Desktop\ETUDES\SIO\TS1SIO\SLAM\SLAM 2\PPE2\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.pdb
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.exe.config
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.exe
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.pdb
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.exe
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.pdb
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.fmCompter.resources
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.FmMotDePasse.resources
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.Form1.resources
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\BiBlioControles.dll
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\BiBlioControles.pdb
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\MySql.Data.dll
+F:\ETUDES\SIO\TS2SIO\SLAM 4\TP\TP-En cours\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\MySql.Data.xml
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.exe.config
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.exe
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.pdb
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.exe
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\Marguerite.pdb
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\BiBlioControles.dll
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\BiBlioControles.pdb
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\bin\Debug\MySql.Data.xml
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.csprojResolveAssemblyReference.cache
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.fmCompter.resources
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.fmMarguerite.resources
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.FmMotDePasse.resources
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.Form1.resources
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.Properties.Resources.resources
+D:\Etudes\SIO\TS2SIO\SLAM 4\TP\TP-Finit\TP01 PHILIPPE Vincent\TP01 PO-archi-maint\Marguerite F+2 (FINIT)\Marguerite\obj\Debug\Marguerite.csproj.GenerateResource.Cache
